@@ -1,2 +1,2 @@
-# Tugas-2-Chatting-Python
+# UAS
 Membuat aplikasi chatting client server Python
